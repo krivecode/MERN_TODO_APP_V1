@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+    margin: 10px;
+}
+
+.action {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.section {
+    margin-top: 50px;
+  }
+
+
+  .form-group {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  }
